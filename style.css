@@ -9,6 +9,16 @@ h2{
     text-align: center;
 }
 
+#Foto{
+    text-align: center; 
+    top: 20px;
+    left: 10px;
+    border: 10px solid rgb(218, 26, 154);    
+}
+#fotoperfil{
+    text-align: center;
+}
+
 
 #descricaofoto {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
