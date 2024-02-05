@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Nome {
+    text-align: center;
+}
+
+#Foto{
+    top: 20px;
+    left: 10px;
+    float: left; 
+    height: 250px;
+    padding: 10px;  
+    background-color: rgb(224, 59, 224);     
+}
+
+#descricaofoto {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 260px;
+    position: relative;   
+}
+
+body {background-color: yellow;}
+
+
+.paragrafo1 {
+    font-style: oblique;
+}
+
+#Hardskills {
+    font-size: 25px;
+}
+
+.Comunicação{
+    font-size: 25px;
+}
+.TrabalhoemEquipe{
+    font-size: 25px;
+}
+.Proatividade{
+    font-size: 25px;
+}
+.Empatia{
+    font-size: 25px;
+}
+.Organização{
+    font-size: 25px;
+}
+.SensodeUrgencia{
+    font-size: 25px;
+}
+.Liderança{
+    font-size: 25px;
+}
+
